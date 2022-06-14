@@ -1,7 +1,7 @@
 {
     "$schema": "http://iglucentral.com/schemas/com.snowplowanalytics.self-desc/schema/jsonschema/1-0-0#",
     "self": {
-        "vendor": "com.wru.subsription",
+        "vendor": "com.wru.subscription",
         "name": "subscriptionEventSchema",
         "format": "jsonschema",
         "version": "1-0-0"

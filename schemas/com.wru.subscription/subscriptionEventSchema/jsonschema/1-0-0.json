@@ -10,6 +10,36 @@
     "properties": {
         "custom_event_name": {
             "type": "string"
+        },
+        "last_viewed_content": {
+            "type": "string"
+        },
+        "paywall_type": {
+            "type": "string"
+        },
+        "paywall_id": {
+            "type": "string"
+        },
+        "plan_selected": {
+            "type": "string"
+        },
+        "payment_method_selected": {
+            "type": "string"
+        },
+        "coupon_applied": {
+            "type": "string"
+        },
+        "message_id": {
+            "type": "string"
+        },
+        "user_id": {
+            "type": "string"
+        },
+        "linked_id": {
+            "type": "string"
+        },
+        "session_id": {
+            "type": "string"
         }
     },
     "additionalProperties": false

@@ -40,6 +40,9 @@
         },
         "session_id": {
             "type": "string"
+        },
+        "publisher_id": {
+            "type": "string"
         }
     },
     "additionalProperties": false

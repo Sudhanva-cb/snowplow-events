@@ -43,6 +43,12 @@
         },
         "publisher_id": {
             "type": "string"
+        },
+        "view_count": {
+            "type": "integer"
+        },
+        "max_view_count": {
+            "type": "integer"
         }
     },
     "additionalProperties": false

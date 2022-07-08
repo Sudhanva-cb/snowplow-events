@@ -61,7 +61,16 @@
         },
         "product": {
             "type": "string"
-        }
+        },
+        "plan_original_price": {
+            "type": "number"
+        },
+        "coupon_amount": {
+            "type": "number"
+        },
+        "plan_discounted_price": {
+            "type": "number"
+        }        
         
     },
     "additionalProperties": false

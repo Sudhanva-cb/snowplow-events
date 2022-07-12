@@ -70,7 +70,10 @@
         },
         "plan_discounted_price": {
             "type": "number"
-        }        
+        },
+        "plan_duration_days": {
+            "type": "integer"
+        }
         
     },
     "additionalProperties": false
